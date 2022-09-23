@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I like this project [Markdown Links](https://github.com/MariAguirre/LIM015-md-links.git)
 
-- 🌱 I’m currently learning **Laravel, React, Wordpress**
+- 🌱 I’m currently learning **Angular, Laravel, React, Wordpress**
 
 - 📫 How to reach me **mary.aguirreliv@gmail.com**
 
